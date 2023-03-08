@@ -1,8 +1,7 @@
-# SMRT-Fridge-TIVA-PROTO-
-
 # This repo contains a project created for the course ENGR 478 (Design with Microprocessors) offered at San Francisco State University. 
 
 The course required students to create a project utilizing the TIVA TM4C123GH6PM microcontroller.  
+
 The KEIL IDE was used for programming the ARM cortex microprocessor on the TIVA board.
 
 ### Project Description from proposal:
