@@ -17,6 +17,9 @@ using reverse logic within the Tiva board). There will also be an asynchronous s
 when pressed will “dump” the stored information (barcode and item name) to a UART thermal
 printer. Whose purpose will be to print out a grocery list of the items that are 'absent' from the management system.
 
+![image](https://user-images.githubusercontent.com/54484042/223843470-e6253497-6479-4c93-8842-d6408ca3bcf1.png)
+
+
 ### Microcontroller Specifications:
 
 32-bit Arm Cortex-M4F based MCU with 80 -MHz, 256 -KB Flash, 32 -KB RAM, 2 CAN, RTC, USB, 64-Pin
