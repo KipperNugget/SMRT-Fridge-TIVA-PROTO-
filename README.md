@@ -15,8 +15,7 @@ return specific information about the item.
 switch that has recently changed from the off state to the on state (which will be acknowledged
 using reverse logic within the Tiva board). There will also be an asynchronous switch, which
 when pressed will “dump” the stored information (barcode and item name) to a UART thermal
-printer. Whose purpose will be to print out a grocery list of the items with switches that are not
-active 
+printer. Whose purpose will be to print out a grocery list of the items that are 'absent' from the management system.
 
 ### Microcontroller Specifications:
 
