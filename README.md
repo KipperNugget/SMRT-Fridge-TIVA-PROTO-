@@ -23,6 +23,10 @@ active
 32-bit Arm Cortex-M4F based MCU with 80 -MHz, 256 -KB Flash, 32 -KB RAM, 2 CAN, RTC, USB, 64-Pin
 https://www.ti.com/product/TM4C123GH6PM#params
 
-Project Contributors: Brandon Foley, Ervin Pendersen
+### Project Contributors: 
 
-Website: https://smartfridge478.carrd.co/
+Brandon Foley, Ervin Pendersen
+
+### Website: 
+
+https://smartfridge478.carrd.co/
