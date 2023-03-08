@@ -5,7 +5,7 @@ The course required students to create a project utilizing the TIVA TM4C123GH6PM
 
 Project Description from proposal:
 
-  The goal of our project is to create a “smart refrigerator.” The smart fridge design will
+  The goal of our project is to create a “smart refrigerator,” that will mitigate users' from cataloging their groceries. The smart fridge design will
 consist of a 1-D barcode scanner, a current list of items in the fridge, and the ability to print a
 grocery list. We will scan the item's barcode, which will be sent to the barcode.monster API and
 return specific information about the item. 
