@@ -1,4 +1,0 @@
-This python program is responsible for making http requests to the BARCODE MONSTER repository.
-
-The program is ran off a computer, but can easily be implemented on an esp32 that is setup as an AP host.
-If a barcode is valid, information about the specifc product will be provided to the user (name & barcode).
