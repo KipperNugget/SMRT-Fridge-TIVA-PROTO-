@@ -1,0 +1,2 @@
+The arduino is used to test that the UART communication from the TIVA board is being received.
+Once the communication has been verified and established, the arduino can be mitigated from the system.
